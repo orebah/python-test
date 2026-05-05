@@ -1,3 +1,3 @@
 import sys
-print(f"Hello! Skrypt Python uruchomiony pomyślnie hrhshshfshsdhs.")
+print(f"Test nowej gałęci")
 print(f"Wersja interpretera: {sys.version}")
